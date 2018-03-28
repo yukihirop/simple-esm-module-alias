@@ -15,8 +15,8 @@
   },
   "author": "ChuntheQhai",
   "dependencies": {
-    "@std/esm": "^0.15.0",
+    "@std/esm": "0.25.5",
     "express": "^4.16.2",
-    "module-alias": "^2.0.2"
+    "module-alias": "2.0.6"
   }
 }

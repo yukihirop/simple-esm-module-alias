@@ -1,4 +1,3 @@
-require('module-alias/register');
 import http from 'http';
 import express from 'express';
 
