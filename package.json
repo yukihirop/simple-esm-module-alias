@@ -17,6 +17,7 @@
   "dependencies": {
     "@std/esm": "0.25.5",
     "express": "^4.16.2",
-    "module-alias": "2.0.6"
+    "module-alias": "2.0.6",
+    "pkg-dir": "^5.0.0"
   }
 }
